@@ -13,7 +13,7 @@ WEEK 2
     <td>Title:  </td>
     <td>WEEK 2 WITH GITHUB - Lesson Review / Evaluation</td>
     <td> Date:  </td>
-    <td>07/09/16</td>
+    <td></td>
   </tr>
 </table>
 
