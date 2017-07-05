@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will work on github further next week, structuring my blogs order better and changing colour, perhaps relearning key parts like embedding media t</td>
+    <td>I will work on github further next week, structuring my blogs order better and changing colour, perhaps relearning key parts like embedding media too</td>
   </tr>
   <tr>
     <td></td>
